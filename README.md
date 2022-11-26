@@ -1,5 +1,7 @@
 # Nuxt 3 Minimal Starter
 
+Nuxt3 App - https://gleeful-rolypoly-985d75.netlify.app
+
 Look at the [Nuxt 3 documentation](https://nuxt.com/docs/getting-started/introduction) to learn more.
 
 ## Setup
